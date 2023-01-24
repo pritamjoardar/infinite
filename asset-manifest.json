@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/infinite/static/css/main.06d5f068.css",
+    "main.js": "/infinite/static/js/main.9e1ee9c3.js",
+    "static/js/787.dc60db5c.chunk.js": "/infinite/static/js/787.dc60db5c.chunk.js",
+    "static/media/bag.png": "/infinite/static/media/bag.c7146dca1e3515922a23.png",
+    "static/media/asset 13.jpeg": "/infinite/static/media/asset 13.1feb0abba397e0459728.jpeg",
+    "static/media/asset 12.jpeg": "/infinite/static/media/asset 12.2fbd5201f8d0f7715b5c.jpeg",
+    "static/media/asset 25.jpeg": "/infinite/static/media/asset 25.07ac0f7e432e2c240779.jpeg",
+    "static/media/asset 10.jpeg": "/infinite/static/media/asset 10.d309b531dddcaaf384f3.jpeg",
+    "static/media/asset 11.jpeg": "/infinite/static/media/asset 11.21b438e93d7d9124492e.jpeg",
+    "static/media/asset 17.jpeg": "/infinite/static/media/asset 17.2c446be3cd9552f75b8a.jpeg",
+    "index.html": "/infinite/index.html",
+    "main.06d5f068.css.map": "/infinite/static/css/main.06d5f068.css.map",
+    "main.9e1ee9c3.js.map": "/infinite/static/js/main.9e1ee9c3.js.map",
+    "787.dc60db5c.chunk.js.map": "/infinite/static/js/787.dc60db5c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06d5f068.css",
+    "static/js/main.9e1ee9c3.js"
+  ]
+}
